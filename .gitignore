@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Variables de entorno
+.env
+
+# Carpetas de build de frontend o backend
+dist/
+build/
